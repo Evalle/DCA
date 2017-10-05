@@ -102,6 +102,6 @@ the filesystem
 - Identify the steps you would take to clean up unused images on a filesystem, also on
 DTR
 - Demonstrate how storage can be used across cluster nodes
-● Identity roles
-● Describe the difference between UCP workers and managers
-● Describe process to use external certificates with UCP and DTR
+- Identity roles
+- Describe the difference between UCP workers and managers
+- Describe process to use external certificates with UCP and DTR
