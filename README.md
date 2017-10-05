@@ -33,7 +33,7 @@ Study guide (pdf) can be found [here](https://files.mtstatic.com/site_6503/draft
 - Demonstrate the usage of templates with "docker service create"
 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
-- [Describe Dockerfile options [add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
+- [Describe Dockerfile options(add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
 - Show the main parts of a Dockerfile
 - Give examples on how to create an efficient image via a Dockerfile
 - Use CLI commands such as list, delete, prune, rmi, etc to manage images
