@@ -80,3 +80,28 @@ registry, and UCP controllers
 - Deploy a service on a Docker overlay network
 - Describe the difference between "host" and "ingress" port publishing mode
 
+### Domain 5: Security (15% of exam)
+- Describe the process of signing an image
+- Demonstrate that an image passes a security scan
+- Enable Docker Content Trust
+- Configure RBAC in UCP
+- Integrate UCP with LDAP/AD
+- Demonstrate creation of UCP client bundles
+- Describe default engine security
+- Describe swarm default security
+- Describe MTLS
+
+### Domain 6: Storage and Volumes (10% of exam)
+- State which graph driver should be used on which OS
+- Demonstrate how to configure devicemapper
+- Compare object storage to block storage, and explain which one is preferable when
+available
+- Summarize how an application is composed of layers and where those layers reside on
+the filesystem
+- Describe how volumes are used with Docker for persistent storage
+- Identify the steps you would take to clean up unused images on a filesystem, also on
+DTR
+- Demonstrate how storage can be used across cluster nodes
+● Identity roles
+● Describe the difference between UCP workers and managers
+● Describe process to use external certificates with UCP and DTR
