@@ -5,6 +5,7 @@ Study guide (pdf) can be found [here](https://files.mtstatic.com/site_6503/draft
 
 ## Table of Contents:
 1. [Orchestration](https://github.com/Evalle/DCA/blob/master/README.md#domain-1-orchestration-25-of-exam)
+2. [Image Creation, Management, and Registry]
 
 ## Content
 
