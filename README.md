@@ -1,6 +1,6 @@
 # Docker Certified Associate exam Preparation Guide
 
-This guide is intend to be a point of knowledge to everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide the right answer/link to every "question" in every domain. Feel fee to add useful links below. 
+This guide is intended to be a point of knowledge to everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide the right answer/link to every "question" in every domain. Feel free to add useful links below. 
 
 ## Content
 
@@ -45,3 +45,38 @@ This guide is intend to be a point of knowledge to everyone who wants to pass [D
 - Pull an image from a registry
 - Describe how image deletion works
 - Delete an image from a registry
+
+### Domain 3: Installation and Configuration (15% of exam)
+- Demonstrate the ability to upgrade the Docker engine
+- Complete setup of repo, select a storage driver, and complete installation of Docker
+engine on multiple platforms
+- Configure logging drivers (splunk, journald, etc)
+- Setup swarm, configure managers, add nodes, and setup backup schedule
+- Create and manager user and teams
+- Interpret errors to troubleshoot installation issues without assistance
+- Outline the sizing requirements prior to installation
+- Understand namespaces, cgroups, and configuration of certificates
+- Use certificate-based client-server authentication to ensure a Docker daemon has the
+rights to access images on a registry
+- Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
+premises in an HA config
+- Complete configuration of backups for UCP and DTR
+- Configure the Docker daemon to start on boot
+
+### Domain 4: Networking (15% of exam)
+- Create a Docker bridge network for a developer to use for their containers
+- Troubleshoot container and engine logs to understand a connectivity issue between
+containers
+- Publish a port so that an application is accessible externally
+- Identify which IP and port a container is externally accessible on
+- Describe the different types and use cases for the built-in network drivers
+- Understand the Container Network Model and how it interfaces with the Docker engine
+and network and IPAM drivers
+- Configure Docker to use external DNS
+- Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
+balancing with Docker EE)
+- Understand and describe the types of traffic that flow between the Docker engine,
+registry, and UCP controllers
+- Deploy a service on a Docker overlay network
+- Describe the difference between "host" and "ingress" port publishing mode
+
