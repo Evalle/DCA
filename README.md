@@ -9,6 +9,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 4. [Networking](https://github.com/Evalle/DCA/blob/master/README.md#domain-4-networking-15-of-exam)
 5. [Security](https://github.com/Evalle/DCA/blob/master/README.md#domain-5-security-15-of-exam)
 6. [Storage and Volumes](https://github.com/Evalle/DCA/blob/master/README.md#domain-6-storage-and-volumes-10-of-exam)
+7. [Useful Links](https://github.com/evalle/dca#useful-links)
 
 ## Content
 
@@ -114,6 +115,6 @@ DTR
 - Describe the difference between UCP workers and managers
 - Describe process to use external certificates with UCP and DTR
 
-### Useful links
+## Useful links
 
 - Study guide (pdf) can be found [here](https://files.mtstatic.com/site_6503/draft_613/0?Expires=1507235736&Signature=BAtUBLTCXA~ESSc8dAStdO~Bgku7M91yuoYJeBDoF-aLSJlftwu-~KwdJQIF5AnENtIGKP6d6DbUQ3EKTvHyw1XndQdSs64zypeCeQZqt3N41-lISNRigPCVVueuk5CHvpPYRLyVjweLGrxNV3PHhpEBk~tZNjc-GkYOxy-V~Ff2blMC7wSdj~S-Q9YUVeLNdFJCMqUgLrMQ0u1PnRCozi~uJMKC8A7DxDzdK7MErd6TMMhSPGa59734rdSTeVnxDn04jp0CAQE1ZF4odnO9tX3Gdu-1~z6qgaz1Cl6KSrKnipLFs~YUUtIzBS3GyzsNu16sVcpEq9NaYI1B1QsItJJlMhXcpiAxO47y49q8ViTLtoOseh0oDFo2injqCYEetb-r6ypWHK5~fSWQ6Wou7o3m9ts3VSItyscUsDqTFSea534rWolwHy22XcSszRKiYSzmiDs9Dq-IwLxFg4aQ8qQLMKXmpdQtHLwwLTNS997aJNyUr1AQClO-PrBG8l66ydCW7RvxEw84XqZ85Cvny-ptx3DpzzkWj-G0WWRLXIWH-mCcbhrHg9Zyte7nTmj8FiF3kOzuBExj7djqqPJdXZnL0QQPKulY653Vzk7viYRFf22QETnLrfd9mw4hBwde2yyAJtJDru~EJRwyi~Z78neUUo2wMvkHTvZMoaU7hAM_&Key-Pair-Id=APKAIX7ZMYEQ4P6XATFQ)
