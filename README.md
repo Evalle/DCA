@@ -35,7 +35,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
 - [Describe Dockerfile options(add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
 - Show the main parts of a Dockerfile
-- Give examples on how to create an efficient image via a Dockerfile
+- [Give examples on how to create an efficient image via a Dockerfile](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - Use CLI commands such as list, delete, prune, rmi, etc to manage images
 - Inspect images and report specific attributes using filter and format
 - Demonstrate tagging an image
