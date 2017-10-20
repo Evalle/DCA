@@ -22,7 +22,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Convert an application deployment into a stack file using a YAML compose file with
 "docker stack deploy"
 - Manipulate a running stack of services
-- Increase # of replicas
+- [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - Add networks, publish ports
 - Mount volumes
 - Illustrate running a replicated vs global service
