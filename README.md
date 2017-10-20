@@ -81,7 +81,7 @@ containers
 - Describe the different types and use cases for the built-in network drivers
 - Understand the Container Network Model and how it interfaces with the Docker engine
 and network and IPAM drivers
-- Configure Docker to use external DNS
+- [Configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
 - Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
 balancing with Docker EE)
 - Understand and describe the types of traffic that flow between the Docker engine,
