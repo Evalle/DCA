@@ -56,7 +56,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Delete an image from a registry
 
 ### Domain 3: Installation and Configuration (15% of exam)
-- Demonstrate the ability to upgrade the Docker engine
+- [Demonstrate the ability to upgrade the Docker engine](https://askubuntu.com/questions/472412/how-do-i-upgrade-docker)
 - Complete setup of repo, select a storage driver, and complete installation of Docker
 engine on multiple platforms
 - Configure logging drivers (splunk, journald, etc)
