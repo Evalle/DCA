@@ -38,7 +38,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - [Give examples on how to create an efficient image via a Dockerfile](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - [Use CLI commands such as list, delete, prune, rmi, etc to manage images](https://docs.docker.com/engine/reference/commandline/image/#usage)
 - Inspect images and report specific attributes using filter and format
-- Demonstrate tagging an image
+- [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - Utilize a registry to store an image
 - Display layers of a Docker image
 - Apply a file to create a Docker image
@@ -48,7 +48,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Configure a registry
 - Log into a registry
 - Utilize search in a registry
-- Tag an image
+- [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - Push an image to a registry
 - Sign an image in a registry
 - Pull an image from a registry
