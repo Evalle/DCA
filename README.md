@@ -23,7 +23,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 "docker stack deploy"
 - Manipulate a running stack of services
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
-- Add networks, publish ports
+- [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
 - Mount volumes
 - Illustrate running a replicated vs global service
 - Identify the steps needed to troubleshoot a service not deploying
