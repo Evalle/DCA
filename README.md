@@ -30,7 +30,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Apply node labels to demonstrate placement of tasks
 - Sketch how a Dockerized application communicates with legacy systems
 - Paraphrase the importance of quorum in a swarm cluster
-- Demonstrate the usage of templates with "docker service create"
+- [Demonstrate the usage of templates with "docker service create"](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates)
 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
 - [Describe Dockerfile options(add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
