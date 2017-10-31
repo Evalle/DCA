@@ -24,7 +24,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Manipulate a running stack of services
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - Add networks, publish ports
-- Mount volumes
+- [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/)
 - Illustrate running a replicated vs global service
 - Identify the steps needed to troubleshoot a service not deploying
 - Apply node labels to demonstrate placement of tasks
