@@ -23,14 +23,14 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 "docker stack deploy"
 - Manipulate a running stack of services
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
-- Add networks, publish ports
-- Mount volumes
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
+- [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/)
+- [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
 - Identify the steps needed to troubleshoot a service not deploying
 - Apply node labels to demonstrate placement of tasks
 - Sketch how a Dockerized application communicates with legacy systems
 - Paraphrase the importance of quorum in a swarm cluster
-- Demonstrate the usage of templates with "docker service create"
+- [Demonstrate the usage of templates with "docker service create"](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates)
 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
 - [Describe Dockerfile options(add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
