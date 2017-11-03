@@ -40,7 +40,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Inspect images and report specific attributes using filter and format
 - [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - Utilize a registry to store an image
-- Display layers of a Docker image
+- [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
 - Apply a file to create a Docker image
 - Modify an image to a single layer
 - Describe how image layers work
