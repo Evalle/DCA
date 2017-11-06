@@ -44,9 +44,9 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Apply a file to create a Docker image
 - Modify an image to a single layer
 - Describe how image layers work
-- Deploy a registry (not architect)
-- Configure a registry
-- Log into a registry
+- [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)
+- [Configure a registry](https://docs.docker.com/registry/configuration/)
+- [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/#parent-command)
 - Utilize search in a registry
 - [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - Push an image to a registry
