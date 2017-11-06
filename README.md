@@ -37,7 +37,7 @@ This guide is intended to be a point of knowledge to everyone who wants to pass 
 - Show the main parts of a Dockerfile
 - [Give examples on how to create an efficient image via a Dockerfile](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - [Use CLI commands such as list, delete, prune, rmi, etc to manage images](https://docs.docker.com/engine/reference/commandline/image/#usage)
-- Inspect images and report specific attributes using filter and format
+- [Inspect images and report specific attributes using filter and format](https://docs.docker.com/engine/reference/commandline/inspect/#extended-description)
 - [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - Utilize a registry to store an image
 - [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
