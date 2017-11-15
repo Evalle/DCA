@@ -92,7 +92,7 @@ registry, and UCP controllers
 ### Domain 5: Security (15% of exam)
 - Describe the process of signing an image
 - Demonstrate that an image passes a security scan
-- Enable Docker Content Trust
+- [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
 - Configure RBAC in UCP
 - Integrate UCP with LDAP/AD
 - Demonstrate creation of UCP client bundles
