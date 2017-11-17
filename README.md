@@ -101,8 +101,8 @@ registry, and UCP controllers
 - Describe MTLS
 
 ### Domain 6: Storage and Volumes (10% of exam)
-- [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/)
-- Demonstrate how to configure devicemapper
+- State which graph driver should be used on which OS
+- [Demonstrate how to configure devicemapper]((https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/))
 - Compare object storage to block storage, and explain which one is preferable when
 available
 - Summarize how an application is composed of layers and where those layers reside on
