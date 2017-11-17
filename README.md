@@ -70,7 +70,7 @@ rights to access images on a registry
 - Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
 premises in an HA config
 - Complete configuration of backups for UCP and DTR
-- Configure the Docker daemon to start on boot
+- [Configure the Docker daemon to start on boot](https://docs.docker.com/engine/installation/linux/linux-postinstall//)
 
 ### Domain 4: Networking (15% of exam)
 - Create a Docker bridge network for a developer to use for their containers
