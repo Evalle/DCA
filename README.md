@@ -47,7 +47,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)
 - [Configure a registry](https://docs.docker.com/registry/configuration/)
 - [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/#parent-command)
-- Utilize search in a registry
+- [Utilize search in a registry](https://docs.docker.com/engine/reference/commandline/search/)
 - [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - Push an image to a registry
 - Sign an image in a registry
