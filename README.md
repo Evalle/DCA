@@ -39,7 +39,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Use CLI commands such as list, delete, prune, rmi, etc to manage images](https://docs.docker.com/engine/reference/commandline/image/#usage)
 - [Inspect images and report specific attributes using filter and format](https://docs.docker.com/engine/reference/commandline/inspect/#extended-description)
 - [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/)
-- Utilize a registry to store an image
+- [Utilize a registry to store an image](https://docs.docker.com/registry/deploying/#copy-an-image-from-docker-hub-to-your-registry)
 - [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
 - Apply a file to create a Docker image
 - Modify an image to a single layer
