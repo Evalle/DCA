@@ -59,7 +59,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Demonstrate the ability to upgrade the Docker engine](https://askubuntu.com/questions/472412/how-do-i-upgrade-docker)
 - Complete setup of repo, select a storage driver, and complete installation of Docker
 engine on multiple platforms
-- Configure logging drivers (splunk, journald, etc)
+- [Configure logging drivers (splunk, journald, etc)](https://docs.docker.com/engine/admin/logging/overview/)
 - [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
 - Create and manager user and teams
 - Interpret errors to troubleshoot installation issues without assistance
