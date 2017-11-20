@@ -42,7 +42,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Utilize a registry to store an image](https://docs.docker.com/registry/deploying/#copy-an-image-from-docker-hub-to-your-registry)
 - [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
 - Apply a file to create a Docker image
-- Modify an image to a single layer
+- [Modify an image to a single layer](https://docs.docker.com/engine/reference/commandline/save/)
 - Describe how image layers work
 - [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)
 - [Configure a registry](https://docs.docker.com/registry/configuration/)
