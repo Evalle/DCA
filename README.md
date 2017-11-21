@@ -49,7 +49,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/#parent-command)
 - [Utilize search in a registry](https://docs.docker.com/engine/reference/commandline/search/)
 - [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/)
-- Push an image to a registry
+- [Push an image to a registry](https://docs.docker.com/engine/reference/commandline/push/)
 - Sign an image in a registry
 - Pull an image from a registry
 - Describe how image deletion works
