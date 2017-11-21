@@ -50,7 +50,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Utilize search in a registry](https://docs.docker.com/engine/reference/commandline/search/)
 - [Tag an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - [Push an image to a registry](https://docs.docker.com/engine/reference/commandline/push/)
-- Sign an image in a registry
+- [Sign an image in a registry](https://docs.docker.com/datacenter/dtr/2.4/guides/user/manage-images/sign-images/)
 - Pull an image from a registry
 - Describe how image deletion works
 - Delete an image from a registry
