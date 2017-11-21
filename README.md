@@ -52,7 +52,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Push an image to a registry](https://docs.docker.com/engine/reference/commandline/push/)
 - [Sign an image in a registry](https://docs.docker.com/datacenter/dtr/2.4/guides/user/manage-images/sign-images/)
 - [Pull an image from a registry](https://docs.docker.com/engine/reference/commandline/pull/)
-- Describe how image deletion works
+- [Describe how image deletion works](https://docs.docker.com/engine/reference/commandline/rmi/)
 - Delete an image from a registry
 
 ### Domain 3: Installation and Configuration (15% of exam)
