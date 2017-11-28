@@ -94,7 +94,7 @@ registry, and UCP controllers
 - [Demonstrate that an image passes a security scan](https://docs.docker.com/docker-cloud/builds/image-scan/)
 - [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
 - [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
-- Integrate UCP with LDAP/AD
+- [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
 - Demonstrate creation of UCP client bundles
 - Describe default engine security
 - Describe swarm default security
