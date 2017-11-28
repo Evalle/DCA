@@ -93,7 +93,7 @@ registry, and UCP controllers
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - [Demonstrate that an image passes a security scan](https://docs.docker.com/docker-cloud/builds/image-scan/)
 - [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
-- Configure RBAC in UCP
+- [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
 - Integrate UCP with LDAP/AD
 - Demonstrate creation of UCP client bundles
 - Describe default engine security
