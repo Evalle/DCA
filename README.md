@@ -91,7 +91,7 @@ registry, and UCP controllers
 
 ### Domain 5: Security (15% of exam)
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
-- Demonstrate that an image passes a security scan
+- [Demonstrate that an image passes a security scan](https://docs.docker.com/docker-cloud/builds/image-scan/)
 - [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
 - Configure RBAC in UCP
 - Integrate UCP with LDAP/AD
