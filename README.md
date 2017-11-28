@@ -90,7 +90,7 @@ registry, and UCP controllers
 - Describe the difference between "host" and "ingress" port publishing mode
 
 ### Domain 5: Security (15% of exam)
-- Describe the process of signing an image
+- [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - Demonstrate that an image passes a security scan
 - [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
 - Configure RBAC in UCP
