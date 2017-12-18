@@ -73,7 +73,7 @@ premises in an HA config
 - [Configure the Docker daemon to start on boot](https://docs.docker.com/engine/installation/linux/linux-postinstall//)
 
 ### Domain 4: Networking (15% of exam)
-- Create a Docker bridge network for a developer to use for their containers
+- [Create a Docker bridge network for a developer to use for their containers](https://docs.docker.com/engine/userguide/networking/#user-defined-networks)
 - Troubleshoot container and engine logs to understand a connectivity issue between
 containers
 - Publish a port so that an application is accessible externally
