@@ -78,7 +78,7 @@ premises in an HA config
 containers
 - Publish a port so that an application is accessible externally
 - Identify which IP and port a container is externally accessible on
-- Describe the different types and use cases for the built-in network drivers
+- [Describe the different types and use cases for the built-in network drivers](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
 - Understand the Container Network Model and how it interfaces with the Docker engine
 and network and IPAM drivers
 - [Configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
