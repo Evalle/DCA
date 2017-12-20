@@ -53,7 +53,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Sign an image in a registry](https://docs.docker.com/datacenter/dtr/2.4/guides/user/manage-images/sign-images/)
 - [Pull an image from a registry](https://docs.docker.com/engine/reference/commandline/pull/)
 - [Describe how image deletion works](https://docs.docker.com/engine/reference/commandline/rmi/)
-- Delete an image from a registry
+- [Delete an image from a registry](https://docs.docker.com/datacenter/dtr/2.0/repos-and-images/delete-an-image/)
 
 ### Domain 3: Installation and Configuration (15% of exam)
 - [Demonstrate the ability to upgrade the Docker engine](https://askubuntu.com/questions/472412/how-do-i-upgrade-docker)
