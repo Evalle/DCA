@@ -112,7 +112,7 @@ the filesystem
 DTR
 - Demonstrate how storage can be used across cluster nodes
 - Identity roles
-- Describe the difference between UCP workers and managers
+- [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
 - Describe process to use external certificates with UCP and DTR
 
 ## Links
