@@ -98,7 +98,7 @@ registry, and UCP controllers
 - Demonstrate creation of UCP client bundles
 - Describe default engine security
 - Describe swarm default security
-- Describe MTLS
+- [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
 - [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/selectadriver/)
