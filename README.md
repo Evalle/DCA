@@ -69,7 +69,7 @@ engine on multiple platforms
 rights to access images on a registry
 - Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
 premises in an HA config
-- Complete configuration of backups for UCP and DTR
+- [Complete configuration of backups for UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
 - [Configure the Docker daemon to start on boot](https://docs.docker.com/engine/installation/linux/linux-postinstall//)
 
 ### Domain 4: Networking (15% of exam)
