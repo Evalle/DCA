@@ -97,7 +97,7 @@ registry, and UCP controllers
 - [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
 - Demonstrate creation of UCP client bundles
 - Describe default engine security
-- Describe swarm default security
+- [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
