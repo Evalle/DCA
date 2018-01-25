@@ -103,8 +103,8 @@ registry, and UCP controllers
 ### Domain 6: Storage and Volumes (10% of exam)
 - [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/selectadriver/)
 - [Demonstrate how to configure devicemapper](https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/)
-- Compare object storage to block storage, and explain which one is preferable when
-available
+- [Compare object storage to block storage, and explain which one is preferable when
+available](http://rancher.com/block-object-file-storage-containers/)
 - Summarize how an application is composed of layers and where those layers reside on
 the filesystem
 - Describe how volumes are used with Docker for persistent storage
