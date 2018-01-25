@@ -108,8 +108,8 @@ available](http://rancher.com/block-object-file-storage-containers/)
 - [Summarize how an application is composed of layers and where those layers reside on
 the filesystem](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
 - [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/engine/admin/volumes/volumes/)
-- Identify the steps you would take to clean up unused images on a filesystem, also on
-DTR
+- [Identify the steps you would take to clean up unused images on a filesystem, also on
+DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - Demonstrate how storage can be used across cluster nodes
 - Identity roles
 - [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
