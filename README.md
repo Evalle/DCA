@@ -19,8 +19,8 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Demonstrate steps to lock a swarm cluster](https://docs.docker.com/engine/swarm/swarm_manager_locking/)
 - Extend the instructions to run individual containers into running services under swarm
 - [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/)
-- Convert an application deployment into a stack file using a YAML compose file with
-"docker stack deploy"
+- [Convert an application deployment into a stack file using a YAML compose file with
+"docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
 - Manipulate a running stack of services
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
