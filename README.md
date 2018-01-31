@@ -17,7 +17,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Complete the setup of a swarm mode cluster, with managers and worker nodes](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/)
 - [State the differences between running a container vs running a service](https://stackoverflow.com/a/43408904)
 - [Demonstrate steps to lock a swarm cluster](https://docs.docker.com/engine/swarm/swarm_manager_locking/)
-- Extend the instructions to run individual containers into running services under swarm
+- [Extend the instructions to run individual containers into running services under swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
 - [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/)
 - [Convert an application deployment into a stack file using a YAML compose file with
 "docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
