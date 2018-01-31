@@ -26,7 +26,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
 - [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/)
 - [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
-- Identify the steps needed to troubleshoot a service not deploying
+- [Identify the steps needed to troubleshoot a service not deploying](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
 - Apply node labels to demonstrate placement of tasks
 - Sketch how a Dockerized application communicates with legacy systems
 - [Paraphrase the importance of quorum in a swarm cluster](https://docs.docker.com/engine/swarm/raft/)
