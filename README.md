@@ -28,7 +28,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
 - [Identify the steps needed to troubleshoot a service not deploying](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
 - [Apply node labels to demonstrate placement of tasks](https://docs.docker.com/engine/reference/commandline/node_update/)
-- Sketch how a Dockerized application communicates with legacy systems
+- [Sketch how a Dockerized application communicates with legacy systems](https://docs.docker.com/config/containers/container-networking/)
 - [Paraphrase the importance of quorum in a swarm cluster](https://docs.docker.com/engine/swarm/raft/)
 - [Demonstrate the usage of templates with "docker service create"](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates)
 
