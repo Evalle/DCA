@@ -41,7 +41,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Demonstrate tagging an image](https://docs.docker.com/engine/reference/commandline/tag/)
 - [Utilize a registry to store an image](https://docs.docker.com/registry/deploying/#copy-an-image-from-docker-hub-to-your-registry)
 - [Display layers of a Docker image](http://blog.arungupta.me/show-layers-of-docker-image/)
-- Apply a file to create a Docker image
+- [Apply a file to create a Docker image](https://docs.docker.com/engine/reference/commandline/image_load/)
 - [Modify an image to a single layer](https://docs.docker.com/engine/reference/commandline/save/)
 - [Describe how image layers work](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
 - [Deploy a registry (not architect)](https://docs.docker.com/registry/deploying/)
