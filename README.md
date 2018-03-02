@@ -63,7 +63,7 @@ engine on multiple platforms](https://docs.docker.com/install/#server)
 - [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
 - [Create and manager user and teams](https://docs.docker.com/datacenter/dtr/2.4/guides/admin/manage-users/create-and-manage-teams/)
 - [Interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/)
-- Outline the sizing requirements prior to installation
+- [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - Understand namespaces, cgroups, and configuration of certificates
 - Use certificate-based client-server authentication to ensure a Docker daemon has the
 rights to access images on a registry
