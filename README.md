@@ -65,8 +65,8 @@ engine on multiple platforms](https://docs.docker.com/install/#server)
 - [Interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/)
 - [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Understand namespaces, cgroups, and configuration of certificates](https://docs.docker.com/engine/docker-overview/#namespaces)
-- Use certificate-based client-server authentication to ensure a Docker daemon has the
-rights to access images on a registry
+- [Use certificate-based client-server authentication to ensure a Docker daemon has the
+rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
 - Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
 premises in an HA config
 - [Complete configuration of backups for UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
