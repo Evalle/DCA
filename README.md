@@ -77,7 +77,7 @@ premises in an HA config [1,](https://docs.docker.com/datacenter/dtr/2.3/guides/
 - [Troubleshoot container and engine logs to understand a connectivity issue between
 containers](https://docs.docker.com/docker-for-windows/troubleshoot/)
 - [Publish a port so that an application is accessible externally](https://github.com/wsargent/docker-cheat-sheet#exposing-ports)
-- Identify which IP and port a container is externally accessible on
+- [Identify which IP and port a container is externally accessible on](https://docs.docker.com/engine/reference/commandline/port/#examples)
 - [Describe the different types and use cases for the built-in network drivers](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
 - Understand the Container Network Model and how it interfaces with the Docker engine
 and network and IPAM drivers
