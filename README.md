@@ -79,8 +79,8 @@ containers](https://docs.docker.com/docker-for-windows/troubleshoot/)
 - [Publish a port so that an application is accessible externally](https://github.com/wsargent/docker-cheat-sheet#exposing-ports)
 - [Identify which IP and port a container is externally accessible on](https://docs.docker.com/engine/reference/commandline/port/#examples)
 - [Describe the different types and use cases for the built-in network drivers](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
-- Understand the Container Network Model and how it interfaces with the Docker engine
-and network and IPAM drivers
+- [Understand the Container Network Model and how it interfaces with the Docker engine
+and network and IPAM drivers](https://success.docker.com/article/networking/)
 - [Configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
 - Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
 balancing with Docker EE)
