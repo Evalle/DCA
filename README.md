@@ -84,8 +84,8 @@ and network and IPAM drivers](https://success.docker.com/article/networking/)
 - [Configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
 - Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
 balancing with Docker EE)
-- Understand and describe the types of traffic that flow between the Docker engine,
-registry, and UCP controllers
+- [Understand and describe the types of traffic that flow between the Docker engine,
+registry, and UCP controllers](https://success.docker.com/article/networking/)
 - Deploy a service on a Docker overlay network
 - Describe the difference between "host" and "ingress" port publishing mode
 
