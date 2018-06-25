@@ -86,7 +86,7 @@ and network and IPAM drivers](https://success.docker.com/article/networking/)
 balancing with Docker EE)
 - [Understand and describe the types of traffic that flow between the Docker engine,
 registry, and UCP controllers](https://success.docker.com/article/networking/)
-- Deploy a service on a Docker overlay network
+- [Deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
 - Describe the difference between "host" and "ingress" port publishing mode
 
 ### Domain 5: Security (15% of exam)
