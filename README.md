@@ -82,8 +82,8 @@ containers](https://docs.docker.com/docker-for-windows/troubleshoot/)
 - [Understand the Container Network Model and how it interfaces with the Docker engine
 and network and IPAM drivers](https://success.docker.com/article/networking/)
 - [Configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
-- Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
-balancing with Docker EE)
+- [Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
+balancing with Docker EE)](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/use-a-load-balancer/#configuration-examples)
 - [Understand and describe the types of traffic that flow between the Docker engine,
 registry, and UCP controllers](https://success.docker.com/article/networking/)
 - [Deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
