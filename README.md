@@ -121,4 +121,4 @@ DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - Study guide (pdf) can be found [here](https://success.docker.com/@api/deki/files/613/DCA_Study_Guide_v1.0.pdf?revision=1)
 
 ## AD
-- If you want to know more about such topics as Docker and Kubernetes, take a look at [my blog](https://evalle.xyz/posts/)
+- If you want to know more about topics such as Docker and Kubernetes, take a look at [my blog](https://evalle.xyz/posts/)
