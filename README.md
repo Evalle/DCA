@@ -95,7 +95,7 @@ registry, and UCP controllers](https://success.docker.com/article/networking/)
 - [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
 - [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
 - [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
-- Demonstrate creation of UCP client bundles
+- [Demonstrate creation of UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
