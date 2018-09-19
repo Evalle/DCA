@@ -87,7 +87,7 @@ balancing with Docker EE)](https://docs.docker.com/datacenter/ucp/2.2/guides/adm
 - [Understand and describe the types of traffic that flow between the Docker engine,
 registry, and UCP controllers](https://success.docker.com/article/networking/)
 - [Deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
-- Describe the difference between "host" and "ingress" port publishing mode. [Host](https://docs.docker.com/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node), [Ingress](https://docs.docker.com/engine/swarm/ingress/)
+- Describe the difference between "host" and "ingress" port publishing mode ([Host](https://docs.docker.com/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node), [Ingress](https://docs.docker.com/engine/swarm/ingress/))
 
 ### Domain 5: Security (15% of exam)
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
