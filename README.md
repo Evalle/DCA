@@ -113,7 +113,7 @@ DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - [Demonstrate how storage can be used across cluster nodes](https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins)
 - [Identity roles](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/permission-levels/#roles)
 - [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
-- Describe process to use external certificates with UCP and DTR ([UCP](https://docs.docker.com/ee/ucp/), [DTR](https://docs.docker.com/ee/dtr/))
+- Describe process to use external certificates with UCP and DTR (**UCP** [from cli](https://success.docker.com/article/how-do-i-provide-an-externally-generated-security-certificate-during-the-ucp-command-line-installation), [from GUI](https://docs.docker.com/ee/ucp/admin/configure/use-your-own-tls-certificates/#configure-ucp-to-use-your-own-tls-certificates-and-keys), [print the public certificates](https://docs.docker.com/reference/ucp/3.0/cli/dump-certs/)), [**DTR**](https://docs.docker.com/ee/dtr/))
 
 ## Links
 
