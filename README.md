@@ -120,5 +120,9 @@ DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - [Basic info](https://success.docker.com/Certification) about Exam
 - Study guide (pdf) can be found [here](https://docker.cdn.prismic.io/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf)
 
+## Contributors
+
+Thanks to all [contributors!](https://github.com/Evalle/DCA/graphs/contributors)
+
 ## AD
 - If you want to know more about topics such as Docker and Kubernetes, take a look at [my blog](https://evalle.xyz/posts/)
