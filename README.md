@@ -152,5 +152,3 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 
 Thanks to all [contributors!](https://github.com/Evalle/DCA/graphs/contributors)
 
-## AD
-- If you want to know more about topics such as Docker and Kubernetes, take a look at [my blog](https://evalle.xyz/posts/)
