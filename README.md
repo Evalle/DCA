@@ -1,4 +1,4 @@
-# Docker Certified Associate Exam Preparation Guide (v1.0.1)
+# Docker Certified Associate Exam Preparation Guide (v1.1)
 
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
@@ -142,7 +142,7 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 ## Links
 
 - [About the exam](https://success.docker.com/Certification)
-- [Official study guide (PDF)](https://docker.cdn.prismic.io/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf)
+- [Official study guide (PDF)](https://docker.cdn.prismic.io/docker/3f8ef3b3-87f1-47c7-b820-0e0a8bb308d4_DCA_study_guide_+v1.1+pdf.pdf)
 
 ## Contributors
 
