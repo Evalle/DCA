@@ -146,7 +146,7 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 ## Links
 
 - [About the exam](https://success.docker.com/Certification)
-- [Official study guide (PDF)](https://docker.cdn.prismic.io/docker/3f8ef3b3-87f1-47c7-b820-0e0a8bb308d4_DCA_study_guide_+v1.1+pdf.pdf)
+- [Official study guide (PDF)]https://docker.cdn.prismic.io/docker/4a619747-6889-48cd-8420-60f24a6a13ac_DCA_study+Guide_v1.3.pdf)
 
 ## Contributors
 
