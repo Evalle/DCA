@@ -43,7 +43,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Describe and demonstrate how to tag an image.](https://docs.docker.com/engine/reference/commandline/tag/)
 - [Describe and demonstrate how to apply a file to create a Docker image](https://docs.docker.com/engine/reference/commandline/image_load/)
 - [Describe and demonstrate how to display layers of a Docker image](https://docs.docker.com/engine/reference/commandline/image_inspect/)
-- [Describe and demonstrate how to modify an image to a single layer](https://stackoverflow.com/questions/39695031/how-make-docker-layer-to-single-layer)
+- Describe and demonstrate how to modify an image to a single layer ([multi-stage build](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#minimize-the-number-of-layers), [single layer](https://stackoverflow.com/questions/39695031/how-make-docker-layer-to-single-layer))
 - [Describe and demonstrate registry functions](https://docs.docker.com/registry/)
 - [Deploy a registry](https://docs.docker.com/registry/deploying/)
 - [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/)
