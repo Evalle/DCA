@@ -1,4 +1,4 @@
-# Docker Certified Associate Exam Preparation Guide (v1.1)
+# Docker Certified Associate Exam Preparation Guide (v1.3 May 2020)
 
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
