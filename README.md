@@ -128,13 +128,13 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 
   ### Question format
 
-  All the questions follow this strucuture: ONE question and FOUR different possible answers.
+    All the questions follow this strucuture: 
 
-  With that in mind, there are TWO TYPES of giving answers:
+  With that in mind, there are THREE TYPES of giving answers:
   - ONE RIGHT ANSWER: The answer options will be a clickable spot and you must select ONE CHOICE. This can be either select a valid answer in a true/false statement or a fill in blank example.
   - MULTIPLE ANSWERS: The answer option will be a square-type and accepts MULTIPLE CHOICES. Before checking the answers, please refer to the question to ensure HOW MANY VALID CHOICES ARE.
+  - Discrete Option Multiple Choice (DOMC) : Options are randomly presented, one at a time. For each presented option, the examinee chooses YES or NO to indicate if the option is correct. [Sample DOMC Questions](https://sei.caveon.com/launchpad/docker-domc-practice-exam-world-geography/domc-practice).   
 
-  There are no boolean questions (statement and then choose between True or False).
 
 ## Links
 
