@@ -25,7 +25,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
 - [Describe and demonstrate orchestration activities](https://docs.docker.com/get-started/orchestration/)
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
-- [Add networks, publish ports](https://docs.docker.com/network/) <-- HERE
+- [Add networks, publish ports](https://docs.docker.com/network/) 
 - [Mount volumes](https://docs.docker.com/storage/volumes/)
 - [Describe and demonstrate how to run replicated and global services](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
 - [Apply node labels to demonstrate placement of tasks](https://success.mirantis.com/article/using-contraints-and-labels-to-control-the-placement-of-containers)
