@@ -1,4 +1,4 @@
-# Docker Certified Associate Exam Preparation Guide (v1.3 May 2020)
+# Docker Certified Associate Exam Preparation Guide (v1.5 December 2020)
 
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
@@ -55,21 +55,18 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Pull](https://docs.docker.com/engine/reference/commandline/pull/) and [delete](https://docs.docker.com/registry/spec/api/#deleting-an-image) images from a registry
 
 ### Domain 3: Installation and Configuration (15% of exam)
-- [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
-- [Complete setup of repo, select a storage driver, and complete installation of Docker
-engine on multiple platforms](https://docs.docker.com/install/)
-- [Configure logging drivers (splunk, journald, etc)](https://docs.docker.com/config/containers/logging/configure/)
-- [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
-- [Create and manage user and teams](https://docs.docker.com/datacenter/dtr/2.4/guides/admin/manage-users/create-and-manage-teams/)
-- [Interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
-- [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
-- [Understand namespaces, cgroups, and configuration of certificates](https://docs.docker.com/engine/docker-overview/#namespaces)
-- [Use certificate-based client-server authentication to ensure a Docker daemon has the
-rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
-- Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
-premises in an HA config. [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://docs.docker.com/docker-for-aws/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
-- [Complete configuration of backups for UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
-- [Configure the Docker daemon to start on boot](https://docs.docker.com/install/linux/linux-postinstall/)
+- [Describe sizing requirements for installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
+- [Describe and demonstrate the setup of repo, selection of a    storage driver, and installationof the Docker engine on multiple platforms](https://docs.docker.com/install/)
+- [Describe and demonstrate configuration of logging drivers (splunk, journald, etc.)](https://docs.docker.com/config/containers/logging/configure/)
+- [Describe and demonstrate how to set up swarm, configure managers, add nodes, andsetup the backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
+- [Describe and demonstrate how to create and manage user and teams](https://docs.docker.com/datacenter/dtr/2.4/guides/admin/manage-users/create-and-manage-teams/)
+- [Describe and demonstrate how to configure the Docker daemon to start on boot](https://docs.docker.com/install/linux/linux-postinstall/)
+- [Describe and demonstrate how to use certificate-based client-server authentication toensure a Docker daemon has the rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
+- [Describe the use of namespaces, cgroups, and certificate configuration](https://docs.docker.com/engine/docker-overview/#namespaces)
+- [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
+- Describe and demonstrate the steps to deploy the docker engine in [Docker, ](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR, ](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/) [Docker on AWS](https://docs.docker.com/docker-for-aws/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
+- [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
+- (Until study guide 1.3) [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
 
 ### Domain 4: Networking (15% of exam)
 - [Create a Docker bridge network for a developer to use for their containers](https://docs.docker.com/network/network-tutorial-standalone/)
