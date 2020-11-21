@@ -1,4 +1,4 @@
-# Docker Certified Associate Exam Preparation Guide (v1.5 December 2020)
+# Docker Certified Associate Exam Preparation Guide (v1.5 October 2020)
 
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
@@ -69,47 +69,46 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - (Until study guide 1.3) [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
 
 ### Domain 4: Networking (15% of exam)
-- [Create a Docker bridge network for a developer to use for their containers](https://docs.docker.com/network/network-tutorial-standalone/)
-- [Troubleshoot container and engine logs to understand a connectivity issue between
-containers](https://success.docker.com/article/troubleshooting-container-networking)
-- [Publish a port so that an application is accessible externally](https://github.com/wsargent/docker-cheat-sheet#exposing-ports)
-- [Identify which IP and port a container is externally accessible on](https://docs.docker.com/engine/reference/commandline/port/#examples)
+- [Describe the Container Network Model and how it interfaces with the Docker engine and network and IPAM drivers](https://success.docker.com/article/networking/)
 - [Describe the different types and use cases for the built-in network drivers](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
-- [Understand the Container Network Model and how it interfaces with the Docker engine
-and network and IPAM drivers](https://success.docker.com/article/networking/)
-- [Configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
-- [Use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load
-balancing with Docker EE)](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/use-a-load-balancer/#configuration-examples)
-- [Understand and describe the types of traffic that flow between the Docker engine,
-registry, and UCP controllers](https://success.docker.com/article/networking/)
-- [Deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
-- Describe the difference between "host" and "ingress" port publishing mode ([Host](https://docs.docker.com/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node), [Ingress](https://docs.docker.com/engine/swarm/ingress/))
+- [Describe the types of traffic that flow between the Docker engine, registry and UCP controllers](https://success.docker.com/article/networking/)
+- [Describe and demonstrate how to create a Docker bridge network for developers to use for their containers](https://docs.docker.com/network/network-tutorial-standalone/)
+- [Describe and demonstrate how to publish a port so that an application is accessible externally](https://github.com/wsargent/docker-cheat-sheet#exposing-ports)
+- [Identify which IP and port a container is externally accessible on](https://docs.docker.com/engine/reference/commandline/port/#examples)
+- Compare and contrast “host” and “ingress” publishing modes ([Host](https://docs.docker.com/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node), [Ingress](https://docs.docker.com/engine/swarm/ingress/))
+- [Describe and demonstrate how to configure Docker to use external DNS](https://gist.github.com/Evalle/7b21e0357c137875a03480428a7d6bf6)
+- [Describe and demonstrate how to use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load balancing with Docker EE)](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/use-a-load-balancer/#configuration-examples)
+- [Describe and demonstrate how to deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
+- [Describe and demonstrate how to troubleshoot container and engine logs to resolve connectivity issues between containers](https://success.docker.com/article/troubleshooting-container-networking)
+- NEW [Describe how to route traffic to Kubernetes pods using ClusterIP and NodePort services]()
+- NEW [Describe the Kubertnetes’ container network model]()
 
 ### Domain 5: Security (15% of exam)
+- NEW [Describe security administration and tasks]()
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
-- [Demonstrate that an image passes a security scan](https://docs.docker.com/datacenter/dtr/2.5/guides/admin/configure/set-up-vulnerability-scans/)
-- [Enable Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
-- [Configure RBAC in UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
-- [Integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
-- [Demonstrate creation of UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
 - [Identity roles](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/permission-levels/#roles)
 - [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
 - Describe process to use external certificates with UCP and DTR (**UCP** [from cli](https://success.docker.com/article/how-do-i-provide-an-externally-generated-security-certificate-during-the-ucp-command-line-installation), [from GUI](https://docs.docker.com/ee/ucp/admin/configure/use-your-own-tls-certificates/#configure-ucp-to-use-your-own-tls-certificates-and-keys), [print the public certificates](https://docs.docker.com/datacenter/ucp/3.0/reference/cli/dump-certs/)), [**DTR**](https://docs.docker.com/ee/dtr/admin/configure/use-your-own-tls-certificates/))
+- [Describe and demonstrate that an image passes a security scan](https://docs.docker.com/datacenter/dtr/2.5/guides/admin/configure/set-up-vulnerability-scans/)
+- [Describe and demonstrate how to enable Docker Content Trust.](https://docs.docker.com/engine/security/trust/content_trust/)
+- [Describe and demonstrate how to configure RBAC with UCP](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/)
+- [Describe and demonstrate how to integrate UCP with LDAP/AD](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
+- [Describe and demonstrate how to create UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
-- [State which graph driver should be used on which OS](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
-- [Demonstrate how to configure devicemapper](https://docs.docker.com/storage/storagedriver/device-mapper-driver/#configure-docker-with-the-devicemapper-storage-driver)
-- [Compare object storage to block storage, and explain which one is preferable when
-available](https://rancher.com/block-object-file-storage-containers/)
-- [Summarize how an application is composed of layers and where those layers reside on
-the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers)
+- [ Identify the correct graph drivers to uses with various operating systems](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
+- [Describe and demonstrate how to configure devicemappe](https://docs.docker.com/storage/storagedriver/device-mapper-driver/#configure-docker-with-the-devicemapper-storage-driver)
+- [Compare and contrast object and block storage and when they should be used](https://rancher.com/block-object-file-storage-containers/)
+- [Describe how an application is composed of layers and where these layers reside on the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers)
 - [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/storage/volumes/)
 - Identify the steps you would take to clean up unused images on a filesystem, also on DTR.
 ([image prune](https://docs.docker.com/engine/reference/commandline/image_prune/), [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/) and [from DTR](https://docs.docker.com/ee/dtr/user/manage-images/delete-images/))
 - [Demonstrate how storage can be used across cluster nodes](https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins)
+ - (NEW) [Describe how to provision persistent storage to a Kubernetes pod using persistentVolumes]()
+ - (NEW) [Describe the relationship between container storage interface drivers, storageClass, persistentVolumeClaim and volume objects in Kubernetes]()
 
 ## Quick facts about the exam
 
@@ -136,7 +135,7 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 ## Links
 
 - [About the exam](https://success.mirantis.com/certification)
-- [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/09/Docker-Study-Guide_v1.4_Aug-2020.pdf)
+- [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf)
 
 ## Contributors
 
