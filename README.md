@@ -66,7 +66,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
 - Describe and demonstrate the steps to deploy the docker engine in [Docker, ](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR, ](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/) [Docker on AWS](https://docs.docker.com/docker-for-aws/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
-- (Until study guide 1.3) [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
+- (Until  1.3) [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
 
 ### Domain 4: Networking (15% of exam)
 - [Describe the Container Network Model and how it interfaces with the Docker engine and network and IPAM drivers](https://success.docker.com/article/networking/)
@@ -80,11 +80,11 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Describe and demonstrate how to use Docker to load balance HTTP/HTTPs traffic to an application (Configure L7 load balancing with Docker EE)](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/use-a-load-balancer/#configuration-examples)
 - [Describe and demonstrate how to deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
 - [Describe and demonstrate how to troubleshoot container and engine logs to resolve connectivity issues between containers](https://success.docker.com/article/troubleshooting-container-networking)
-- NEW [Describe how to route traffic to Kubernetes pods using ClusterIP and NodePort services](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
-- NEW [Describe the Kubertnetes’ container network model](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+- (Since 1.5) [Describe how to route traffic to Kubernetes pods using ClusterIP and NodePort services](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+- (Since 1.5) [Describe the Kubertnetes’ container network model](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 
 ### Domain 5: Security (15% of exam)
-- NEW Describe [security administration](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling) and [tasks](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling)
+- (Since 1.5) Describe [security administration](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling) and [tasks](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling)
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
@@ -107,8 +107,8 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - Identify the steps you would take to clean up unused images on a filesystem, also on DTR.
 ([image prune](https://docs.docker.com/engine/reference/commandline/image_prune/), [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/) and [from DTR](https://docs.docker.com/ee/dtr/user/manage-images/delete-images/))
 - [Demonstrate how storage can be used across cluster nodes](https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins)
- - (NEW) [Describe how to provision persistent storage to a Kubernetes pod using persistentVolumes]()
- - (NEW) [Describe the relationship between container storage interface drivers, storageClass, persistentVolumeClaim and volume objects in Kubernetes]()
+ - (Since 1.5) [Describe how to provision persistent storage to a Kubernetes pod using persistentVolumes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/)
+ - (Since 1.5) Describe the relationship between [container storage interface drivers](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/), [storageClass](https://kubernetes.io/docs/concepts/storage/storage-classes/), [persistentVolumeClaim](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) and [volume objects](https://kubernetes.io/docs/concepts/storage/volumes/) in Kubernetes
 
 ## Quick facts about the exam
 
