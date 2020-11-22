@@ -55,7 +55,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Pull](https://docs.docker.com/engine/reference/commandline/pull/) and [delete](https://docs.docker.com/registry/spec/api/#deleting-an-image) images from a registry
 
 ### Domain 3: Installation and Configuration (15% of exam)
-- [Describe sizing requirements for installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
+- [Describe sizing requirements for installation](https://docs.docker.com/docker-for-windows/install/#system-requirements)
 - [Describe and demonstrate the setup of repo, selection of a    storage driver, and installationof the Docker engine on multiple platforms](https://docs.docker.com/install/)
 - [Describe and demonstrate configuration of logging drivers (splunk, journald, etc.)](https://docs.docker.com/config/containers/logging/configure/)
 - [Describe and demonstrate how to set up swarm, configure managers, add nodes, andsetup the backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
