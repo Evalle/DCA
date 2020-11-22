@@ -84,7 +84,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - NEW [Describe the Kubertnetes’ container network model](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 
 ### Domain 5: Security (15% of exam)
-- NEW Describe [security administration](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling) and tasks[https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling]()
+- NEW Describe [security administration](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling) and [tasks](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling)
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
