@@ -67,7 +67,7 @@ engine on multiple platforms](https://docs.docker.com/install/)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the
 rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
 - Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
-premises in an HA config. [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://docs.docker.com/docker-for-aws/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
+premises in an HA config. [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://aws.amazon.com/quickstart/architecture/docker-ee/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - [Complete configuration of backups for UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
 - [Configure the Docker daemon to start on boot](https://docs.docker.com/install/linux/linux-postinstall/)
 
