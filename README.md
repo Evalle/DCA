@@ -139,9 +139,8 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 ## Links
 
 - [About the exam](https://success.mirantis.com/certification)
-- [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf`)
+- [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf)
 
 ## Contributors
 
 Thanks to all [contributors!](https://github.com/Evalle/DCA/graphs/contributors)
-
