@@ -1,4 +1,4 @@
-# Docker Certified Associate Exam Preparation Guide (v1.3 May 2020)
+# Docker Certified Associate Exam Preparation Guide (v1.5 October 2020)
 
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
@@ -139,7 +139,7 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 ## Links
 
 - [About the exam](https://success.mirantis.com/certification)
-- [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/09/Docker-Study-Guide_v1.4_Aug-2020.pdf)
+- [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf`)
 
 ## Contributors
 
