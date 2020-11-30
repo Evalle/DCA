@@ -63,6 +63,7 @@ engine on multiple platforms](https://docs.docker.com/install/)
 - [Configure logging drivers (splunk, journald, etc)](https://docs.docker.com/config/containers/logging/configure/)
 - [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
 - [Create and manage user and teams](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/mke/authorize/create-manually.html)
+- [Describe and demonstrate how to configure the Docker daemon to start on boot](https://docs.docker.com/install/linux/linux-postinstall/)
 - [Interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
 - [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Understand namespaces, cgroups, and configuration of certificates](https://docs.docker.com/engine/docker-overview/#namespaces)
@@ -71,7 +72,7 @@ rights to access images on a registry](https://docs.docker.com/engine/security/c
 - Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
 premises in an HA config. [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://aws.amazon.com/quickstart/architecture/docker-ee/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/dee-intro/manage/backup.html)
-- [Configure the Docker daemon to start on boot](https://docs.docker.com/install/linux/linux-postinstall/)
+
 
 ### Domain 4: Networking (15% of exam)
 - [Create a Docker bridge network for a developer to use for their containers](https://docs.docker.com/network/network-tutorial-standalone/)
