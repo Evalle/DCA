@@ -65,9 +65,9 @@ engine on multiple platforms](https://docs.docker.com/install/)
 - [Create and manage user and teams](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/mke/authorize/create-manually.html)
 - [Describe and demonstrate how to configure the Docker daemon to start on boot](https://docs.docker.com/install/linux/linux-postinstall/)
 - [Describe and demonstrate how to use certificate-based client-server authentication toensure a Docker daemon has the rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
+- [Describe the use of namespaces, cgroups, and certificate configuration](https://docs.docker.com/engine/docker-overview/#namespaces)
 - [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
 - [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
-- [Understand namespaces, cgroups, and configuration of certificates](https://docs.docker.com/engine/docker-overview/#namespaces)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the
 rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
 - Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
