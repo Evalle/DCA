@@ -70,8 +70,7 @@ engine on multiple platforms](https://docs.docker.com/install/)
 - [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the
 rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
-- Consistently repeat steps to deploy Docker engine, UCP, and DTR on AWS and on
-premises in an HA config. [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://aws.amazon.com/quickstart/architecture/docker-ee/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
+- Describe and demonstrate the steps to deploy the Docker engine, UCP, and DTR on AWSand on-premises in an HA configuration: [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://aws.amazon.com/quickstart/architecture/docker-ee/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/dee-intro/manage/backup.html)
 
 
