@@ -66,12 +66,10 @@ engine on multiple platforms](https://docs.docker.com/install/)
 - [Describe the use of namespaces, cgroups, and certificate configuration](https://docs.docker.com/engine/docker-overview/#namespaces)
 - [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
 - Describe and demonstrate the steps to deploy the Docker engine, UCP, and DTR on AWSand on-premises in an HA configuration: [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://aws.amazon.com/quickstart/architecture/docker-ee/) and possibly [on premises HA configuration](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
+- [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/dee-intro/manage/backup.html)
 - [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the
 rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
-
-- [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/dee-intro/manage/backup.html)
-
 
 ### Domain 4: Networking (15% of exam)
 - [Create a Docker bridge network for a developer to use for their containers](https://docs.docker.com/network/network-tutorial-standalone/)
