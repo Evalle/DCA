@@ -1,5 +1,7 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 October 2020)
 
+![Check Markdown links](https://github.com/Evalle/DCA/workflows/Check%20Markdown%20links/badge.svg?branch=master)
+
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
