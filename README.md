@@ -57,6 +57,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Pull](https://docs.docker.com/engine/reference/commandline/pull/) and [delete](https://docs.docker.com/registry/spec/api/#deleting-an-image) images from a registry
 
 ### Domain 3: Installation and Configuration (15% of exam)
+- [Describe sizing requirements for installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
 - [Complete setup of repo, select a storage driver, and complete installation of Docker
 engine on multiple platforms](https://docs.docker.com/install/)
@@ -69,7 +70,6 @@ engine on multiple platforms](https://docs.docker.com/install/)
 - [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
 - Describe and demonstrate the steps to deploy the Docker engine, UCP, and DTR on AWSand on-premises in an HA configuration: [Docker,](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR,](https://docs.docker.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](https://docs.docker.com/ee/ucp/), [Docker on AWS](https://aws.amazon.com/quickstart/architecture/docker-ee/) and possibly [on premises HA configuration](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - [Describe and demonstrate how to configure backups for UCP and DTR](https://docs.mirantis.com/docker-enterprise/v3.1/dockeree-products/dee-intro/manage/backup.html)
-- [Outline the sizing requirements prior to installation](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/install/system-requirements/#hardware-and-software-requirements)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the
 rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
 
