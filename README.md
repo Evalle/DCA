@@ -1,5 +1,8 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 October 2020)
 
+![Check Markdown links](https://github.com/Evalle/DCA/workflows/Check%20Markdown%20links/badge.svg?branch=master)
+
+
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
@@ -68,6 +71,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Describe and demonstrate how to configure backups for UCP and DTR](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
 - (Until Study Guide 1.3) [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
 
+
 ### Domain 4: Networking (15% of exam)
 - [Describe the Container Network Model and how it interfaces with the Docker engine and network and IPAM drivers](https://docs.docker.com/network/)
 - [Describe the different types and use cases for the built-in network drivers](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
@@ -99,7 +103,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Describe and demonstrate how to create UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
-- [ Identify the correct graph drivers to uses with various operating systems](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
+- [Identify the correct graph drivers to uses with various operating systems](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
 - [Describe and demonstrate how to configure devicemappe](https://docs.docker.com/storage/storagedriver/device-mapper-driver/#configure-docker-with-the-devicemapper-storage-driver)
 - [Compare and contrast object and block storage and when they should be used](https://rancher.com/block-object-file-storage-containers/)
 - [Describe how an application is composed of layers and where these layers reside on the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers)
@@ -140,4 +144,3 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 ## Contributors
 
 Thanks to all [contributors!](https://github.com/Evalle/DCA/graphs/contributors)
-

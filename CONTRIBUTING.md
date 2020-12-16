@@ -43,12 +43,7 @@ Please keep unstructured critique to a minimum. If you have solid ideas you
 want to experiment with, make a fork and see how it works.
 
 We will exclude you from interaction if you insult, demean or harass anyone.
-That is not welcome behaviour. We interpret the term "harassment" as
-including the definition in the
-[Citizen Code of Conduct](http://citizencodeofconduct.org/);
-if you have any lack of clarity about what might be included in that concept,
-please read their definition. In particular, we don't tolerate behavior that
-excludes people in socially marginalized groups.
+That is not welcome behaviour.
 
 Private harassment is also unacceptable. No matter who you are, if you feel
 you have been or are being harassed or made uncomfortable by a community
@@ -62,15 +57,10 @@ behaviour is not welcome.
 
 # Communication
 
-There is an IRC channel on irc.freenode.net, channel `#CONTRIBUTING.md`. You're
-welcome to drop in and ask questions, discuss bugs and such. The channel is
-not currently logged.
-
 GitHub issues are the primary way for communicating about specific proposed
 changes to this project.
 
-In both contexts, please follow the conduct guidelines above. Language issues
-are often contentious and we'd like to keep discussion brief, civil and focused
+Language issues are often contentious and we'd like to keep discussion brief, civil and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
 
 # Frequently Asked Questions
