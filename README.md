@@ -69,8 +69,6 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/config/daemon/#troubleshoot-the-daemon)
 - Describe and demonstrate the steps to deploy the docker engine in [Docker, ](https://docs.docker.com/install/linux/docker-ce/ubuntu/) [DTR, ](http://docs.docker.oeynet.com/datacenter/dtr/2.3/guides/admin/install/) [UCP,](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/admin/install/) [Docker on AWS](https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - [Describe and demonstrate how to configure backups for UCP and DTR](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/admin/backups-and-disaster-recovery/)
-- (Until Study Guide 1.3) [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
-
 
 ### Domain 4: Networking (15% of exam)
 - [Describe the Container Network Model and how it interfaces with the Docker engine and network and IPAM drivers](https://docs.docker.com/network/)
