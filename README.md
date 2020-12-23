@@ -112,27 +112,14 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
  - (Since Study Guide 1.5) [Describe how to provision persistent storage to a Kubernetes pod using persistentVolumes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/)
  - (Since Study Guide 1.5) Describe the relationship between [container storage interface drivers](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/), [storageClass](https://kubernetes.io/docs/concepts/storage/storage-classes/), [persistentVolumeClaim](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) and [volume objects](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#storage-object-in-use-protection) in Kubernetes
 
-## Quick facts about the exam
+## Exam Details
 
-  ### Summary
-  These are the most relevant quick facts of the exam:
-
-  - The exam is online, using Google Chrome browser on <B>Windows</B> or <B>MacOS</B> ONLY. <B>Linux</B> support IS NOT available at this time;
-  - 55 questions to be answered within 90 minutes. Which give you almost one minute and a half to spend on each question;
-  - It costs 195 USD or 175 EUR;
-  - Lasts for 2 years after the day you got certified;
-  - Docker does not publish exam passing scores because exam questions and passing scores are subject to change without notice;
-  - Results comes instantly.
-
-  More detailed parts about the exam, please refer to the Links section.
-
-  ### Question format
-
- There are THREE TYPES of giving answers:
- - ONE RIGHT ANSWER: The answer options will be a clickable spot and you must select ONE CHOICE. This can be either select a valid answer in a true/false statement or a fill in blank example.
- - MULTIPLE ANSWERS: The answer option will be a square-type and accepts MULTIPLE CHOICES. Before checking the answers, please refer to the question to ensure HOW MANY VALID CHOICES ARE.
- - Discrete Option Multiple Choice (DOMC) : Options are randomly presented, one at a time. For each presented option, the examinee chooses YES or NO to indicate if the option is correct. [Sample DOMC Questions](https://sei.caveon.com/launchpad/docker-domc-practice-exam-world-geography/domc-practice).   
-
+- 13 multiple choice and 42 discrete option multiple choice (DOMC) questions in 90 minutes
+- Designed to validate professionals with a minimum of 6 to 12 months of Docker experience
+- Remotely proctored on your Windows or Mac computer
+- Available globally in English
+- USD $195 or Euro €175 purchased online
+- Results delivered immediately
 
 ## Links
 
