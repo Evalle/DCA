@@ -121,10 +121,15 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - USD $195 or Euro €175 purchased online
 - Results delivered immediately
 
-## Links
+## Useful Links
 
 - [About the exam](https://success.mirantis.com/certification)
 - [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf)
+- [Schedule your Docker Certified Associate Exam](https://training.mirantis.com/dca-certification-exam/)
+
+## Useful Preparation Courses
+
+- [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=dca)
 
 ## Contributors
 
