@@ -7,14 +7,18 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 
-## Table of Contents:
+## Table of Contents
+
 1. [Orchestration](https://github.com/Evalle/DCA/blob/master/README.md#domain-1-orchestration-25-of-exam)
-2. [Image Creation, Management, and Registry](https://github.com/Evalle/DCA/blob/master/README.md#domain-2-image-creation-management-and-registry-20-of-exam)
-3. [Installation and Configuration](https://github.com/Evalle/DCA/blob/master/README.md#domain-3-installation-and-configuration-15-of-exam)
-4. [Networking](https://github.com/Evalle/DCA/blob/master/README.md#domain-4-networking-15-of-exam)
-5. [Security](https://github.com/Evalle/DCA/blob/master/README.md#domain-5-security-15-of-exam)
-6. [Storage and Volumes](https://github.com/Evalle/DCA/blob/master/README.md#domain-6-storage-and-volumes-10-of-exam)
-7. [Links](https://github.com/evalle/dca#links)
+1. [Image Creation, Management, and Registry](https://github.com/Evalle/DCA/blob/master/README.md#domain-2-image-creation-management-and-registry-20-of-exam)
+1. [Installation and Configuration](https://github.com/Evalle/DCA/blob/master/README.md#domain-3-installation-and-configuration-15-of-exam)
+1. [Networking](https://github.com/Evalle/DCA/blob/master/README.md#domain-4-networking-15-of-exam)
+1. [Security](https://github.com/Evalle/DCA/blob/master/README.md#domain-5-security-15-of-exam)
+1. [Storage and Volumes](https://github.com/Evalle/DCA/blob/master/README.md#domain-6-storage-and-volumes-10-of-exam)
+1. [Exam Details](https://github.com/Evalle/dca#exam-details)
+1. [Useful Links](https://github.com/Evalle/dca#useful-links)
+1. [Useful Preparation Courses](https://github.com/Evalle/dca#useful-preparation-courses)
+
 
 ## Content
 
