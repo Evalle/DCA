@@ -106,7 +106,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
 - [Identify the correct graph drivers to uses with various operating systems](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
-- [Describe and demonstrate how to configure devicemappe](https://docs.docker.com/storage/storagedriver/device-mapper-driver/#configure-docker-with-the-devicemapper-storage-driver)
+- [Describe and demonstrate how to configure devicemapper](https://docs.docker.com/storage/storagedriver/device-mapper-driver/#configure-docker-with-the-devicemapper-storage-driver)
 - [Compare and contrast object and block storage and when they should be used](https://rancher.com/block-object-file-storage-containers/)
 - [Describe how an application is composed of layers and where these layers reside on the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers)
 - [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/storage/volumes/)
