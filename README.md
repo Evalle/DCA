@@ -87,7 +87,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Describe and demonstrate how to deploy a service on a Docker overlay network](https://docs.docker.com/network/overlay/)
 - [Describe and demonstrate how to troubleshoot container and engine logs to resolve connectivity issues between containers](https://success.mirantis.com/article/troubleshooting-container-networking)
 - (Since Study Guide 1.5) [Describe how to route traffic to Kubernetes pods using ClusterIP and NodePort services](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
-- (Since Study Guide 1.5) [Describe the Kubertnetes’ container network model](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+- (Since Study Guide 1.5) [Describe the Kubernetes’ container network model](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 
 ### Domain 5: Security (15% of exam)
 - (Since Study Guide 1.5) Describe [security administration](https://docs.docker.com/engine/security/) and [tasks](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#tasks-and-scheduling)
