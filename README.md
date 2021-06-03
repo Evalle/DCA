@@ -16,7 +16,7 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 1. [Storage and Volumes](#domain-6-storage-and-volumes-10-of-exam)
 1. [Exam Details](#exam-details)
 1. [Useful Links](#useful-links)
-1. [Useful Preparation Courses](#useful-preparation-courses)
+1. [Useful Preparation Links](#useful-preparation-links)
 
 
 ## Content
@@ -135,9 +135,10 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 - [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf)
 - [Schedule your Docker Certified Associate Exam](https://training.mirantis.com/dca-certification-exam/)
 
-## Useful Preparation Courses
+## Useful Preparation Links
 
 - [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=dca)
+- [250 Practice Questions](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-the-dca-exam-84f3b9e8f5ce)
 
 ## Contributors
 
