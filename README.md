@@ -8,7 +8,9 @@ Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 
 ## Important Info
 
-- Docker Trusted Registry (DTR) was renamed to Mirantis Secure Registry (MSR) - there are no changes regarding this in the Official Study Guide yet. 
+Some of the products have been renamed, there are no changes regarding this in the Official Study Guide yet. 
+
+- Docker Trusted Registry (DTR) was renamed to Mirantis Secure Registry (MSR) - [announecement](https://www.mirantis.com/software/mirantis-secure-registry/)
 - Docker Enterprise/UCP was renamed to Mirantis Kubernetes Engine (MKE) - [announecement](https://www.mirantis.com/software/mirantis-kubernetes-engine/)
 
 ## Table of Contents
