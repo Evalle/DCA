@@ -7,7 +7,9 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 
 ## Important Info
-Docker Trusted Registry (DTR) was renamed to Mirantis Secure Registry (MSR) - there are no changes regarding this in the Official Study Guide yet. 
+
+- Docker Trusted Registry (DTR) was renamed to Mirantis Secure Registry (MSR) - there are no changes regarding this in the Official Study Guide yet. 
+- Docker Enterprise/UCP was renamed to Mirantis Kubernetes Engine (MKE) - [announecement](https://www.mirantis.com/software/mirantis-kubernetes-engine/)
 
 ## Table of Contents
 
