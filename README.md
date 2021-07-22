@@ -103,7 +103,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
-- [Identity roles](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/access-control/permission-levels/#roles)
+- [Identity roles](https://docs.mirantis.com/mke/3.4/ops/authorize-rolebased-access/access-control-model.html)
 - [Describe the difference between UCP workers and managers](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/architecture/)
 - Describe process to use external certificates with:
   1. UCP 
