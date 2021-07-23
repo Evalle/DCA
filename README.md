@@ -104,7 +104,9 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
 - [Identity roles](https://docs.mirantis.com/mke/3.4/ops/authorize-rolebased-access/access-control-model.html)
-- [Describe the difference between UCP workers and managers](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/architecture/)
+- Describe the difference between UCP workers and managers:
+  - [workers](https://docs.mirantis.com/mke/3.4/ref-arch/worker-nodes.html)
+  - [managers](https://docs.mirantis.com/mke/3.4/ref-arch/manager-nodes.html)
 - Describe process to use external certificates with:
   1. UCP 
   - [from cli](https://success.mirantis.com/article/how-do-i-provide-an-externally-generated-security-certificate-during-the-ucp-command-line-installation)
