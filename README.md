@@ -111,7 +111,7 @@ Some of the products have been renamed, there are no changes regarding this in t
   1. UCP 
   - [from cli](https://success.mirantis.com/article/how-do-i-provide-an-externally-generated-security-certificate-during-the-ucp-command-line-installation)
   - [from GUI](https://docs.mirantis.com/docker-enterprise/v3.0/dockeree-products/ucp/admin/configure/use-your-own-tls-certificates.html)
-  - [print the public certificates](http://docs.docker.oeynet.com/datacenter/ucp/2.2/reference/cli/dump-certs/)
+  - [print the public certificates](https://docs.mirantis.com/mke/3.3/cli-ref/mke-cli-dump-certs.html)
   2. [**DTR** is now Mirantis Secure Registry or **MSR**](https://docs.mirantis.com/containers/v3.1/dockeree-products/msr/msr-configure/use-your-own-tls-certificates.html)
 - [Describe and demonstrate that an image passes a security scan](http://docs.docker.oeynet.com/datacenter/dtr/2.3/guides/admin/configure/set-up-vulnerability-scans/)
 - [Describe and demonstrate how to enable Docker Content Trust.](https://docs.docker.com/engine/security/trust/content_trust/)
