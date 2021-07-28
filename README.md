@@ -115,7 +115,7 @@ Some of the products have been renamed, there are no changes regarding this in t
   2. [**DTR** is now Mirantis Secure Registry or **MSR**](https://docs.mirantis.com/containers/v3.1/dockeree-products/msr/msr-configure/use-your-own-tls-certificates.html)
 - [Describe and demonstrate that an image passes a security scan](https://docs.mirantis.com/msr/2.9/ops/manage-images/scan-images-for-vulnerabilities.html)
 - [Describe and demonstrate how to enable Docker Content Trust.](https://docs.docker.com/engine/security/trust/content_trust/)
-- [Describe and demonstrate how to configure RBAC with UCP](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/access-control/)
+- [Describe and demonstrate how to configure RBAC with UCP](https://docs.mirantis.com/containers/v3.0/dockeree-products/mke/admin/configure/configure-kube-rbac.html)
 - [Describe and demonstrate how to integrate UCP with LDAP/AD](http://docs.docker.oeynet.com/datacenter/ucp/2.2/guides/admin/configure/external-auth/)
 - [Describe and demonstrate how to create UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
 
