@@ -1,8 +1,12 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 October 2020)
 
+## Markdown Check
 ![Check Markdown links](https://github.com/Evalle/DCA/workflows/Check%20Markdown%20links/badge.svg?branch=master)
+
+## GitHub Stars Sparklines
 [![Sparkline](https://stars.medv.io/evalle/dca.svg)](https://stars.medv.io/evalle/dca)
 
+## Introduction
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://training.mirantis.com/dca-certification-exam/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
