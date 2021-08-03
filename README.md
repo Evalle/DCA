@@ -1,6 +1,6 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 October 2020)
 
-## Markdown Links Checker
+## Links Checker
 ![Check Markdown links](https://github.com/Evalle/DCA/workflows/Check%20Markdown%20links/badge.svg?branch=master)
 
 ## GitHub Stars Sparklines
