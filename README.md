@@ -151,7 +151,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Official study guide (PDF)](https://training.mirantis.com/wp-content/uploads/2020/10/Docker-Study-Guide_v1.5-October.pdf)
 - [Schedule your Docker Certified Associate Exam](https://prod.examity.com/docker)
 
-## Useful Preparation Links
+## Preparation
 
 - [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=dca)
 - [250 Practice Questions](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-the-dca-exam-84f3b9e8f5ce)
