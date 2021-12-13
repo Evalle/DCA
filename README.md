@@ -46,7 +46,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Add networks, publish ports](https://docs.docker.com/network/) 
 - [Mount volumes](https://docs.docker.com/storage/volumes/)
 - [Describe and demonstrate how to run replicated and global services](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
-- [Apply node labels to demonstrate placement of tasks](https://success.mirantis.com/article/using-contraints-and-labels-to-control-the-placement-of-containers)
+- Apply node labels to demonstrate placement of tasks ([Label a Swarm Node ](https://docs.docker.com/engine/reference/commandline/node_update/#add-label-metadata-to-a-node), [Use Placement Constraints](https://docs.docker.com/engine/swarm/services/#control-service-placement))
 - [Describe and demonstrate how to use templates with “docker service create”](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates)
 - [Identify the steps needed to troubleshoot a service not deploying](https://success.mirantis.com/article/swarm-troubleshooting-methodology)
 - [Describe how a Dockerized application communicates with legacy systems](https://docs.docker.com/config/containers/container-networking/)
