@@ -48,7 +48,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Describe and demonstrate how to run replicated and global services](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
 - Apply node labels to demonstrate placement of tasks ([Label a Swarm Node ](https://docs.docker.com/engine/reference/commandline/node_update/#add-label-metadata-to-a-node), [Use Placement Constraints](https://docs.docker.com/engine/swarm/services/#control-service-placement))
 - [Describe and demonstrate how to use templates with “docker service create”](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates)
-- [Identify the steps needed to troubleshoot a service not deploying](https://success.mirantis.com/article/swarm-troubleshooting-methodology)
+- [Identify the steps needed to troubleshoot a service not deploying](https://docker-tutorial.schoolofdevops.com/docker-swarm-ucp-troubleshooting/)
 - [Describe how a Dockerized application communicates with legacy systems](https://docs.docker.com/config/containers/container-networking/)
 - [Describe how to deploy containerized workloads as Kubernetes pods and deployments](https://docs.docker.com/get-started/kube-deploy/)
 - [Describe how to provide configuration to Kubernetes pods using configMaps and secrets](https://opensource.com/article/19/6/introduction-kubernetes-secrets-and-configmaps)
