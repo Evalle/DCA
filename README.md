@@ -142,7 +142,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 - Designed to validate professionals with a minimum of 6 to 12 months of Docker experience
 - Remotely proctored on your Windows or Mac computer
 - Available globally in English
-- USD $195 or Euro €175 purchased online
+- USD $195 or Euro €200 purchased online
 - Results delivered immediately
 
 ## Useful Links
