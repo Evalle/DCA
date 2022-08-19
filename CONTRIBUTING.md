@@ -9,8 +9,8 @@ Please contribute to this repository if any of the following is true:
 
 Prerequisites:
 
-- Familiarity with [pull requests](https://help.github.com/articles/using-pull-requests) and [issues](https://guides.github.com/features/issues/).
-- Knowledge of [Markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
+- Familiarity with [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues).
+- Knowledge of [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for editing `.md` documents.
 
 In particular, this community seeks the following types of contributions:
 
