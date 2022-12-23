@@ -108,13 +108,13 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
-- [Identity roles](https://docs.mirantis.com/mke/3.4/ops/authorize-rolebased-access/access-control-model.html)
+- [Identity roles](https://docs.mirantis.com/mke/3.6/ref-arch/rbac.html#rbac)
 - Describe the difference between UCP workers and managers:
   - [workers](https://docs.mirantis.com/mke/3.4/ref-arch/worker-nodes.html)
   - [managers](https://docs.mirantis.com/mke/3.4/ref-arch/manager-nodes.html)
 - Describe process to use external certificates with:
   1. UCP 
-  - [from cli](https://success.mirantis.com/article/how-do-i-provide-an-externally-generated-security-certificate-during-the-ucp-command-line-installation)
+  - [from cli](https://docs.mirantis.com/mke/3.6/ops/administer-cluster/use-your-own-tls-certificates.html)
   - [from GUI](https://docs.mirantis.com/docker-enterprise/v3.0/dockeree-products/ucp/admin/configure/use-your-own-tls-certificates.html)
   - [print the public certificates](https://docs.mirantis.com/mke/3.3/cli-ref/mke-cli-dump-certs.html)
   2. [**DTR** is now Mirantis Secure Registry or **MSR**](https://docs.mirantis.com/containers/v3.1/dockeree-products/msr/msr-configure/use-your-own-tls-certificates.html)
