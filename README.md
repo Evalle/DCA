@@ -122,7 +122,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Describe and demonstrate how to enable Docker Content Trust.](https://docs.docker.com/engine/security/trust/content_trust/)
 - [Describe and demonstrate how to configure RBAC with UCP](https://docs.mirantis.com/containers/v3.0/dockeree-products/mke/admin/configure/configure-kube-rbac.html)
 - [Describe and demonstrate how to integrate UCP with LDAP/AD](https://docs.mirantis.com/containers/v3.0/dockeree-products/mke/admin/configure/integrate-with-LDAP-directory.html)
-- [Describe and demonstrate how to create UCP client bundles](https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/)
+- [Describe and demonstrate how to create UCP client bundles](https://docs.mirantis.com/mke/3.4/ops/access-cluster/client-bundle/configure-client-bundle.html)
 
 ### Domain 6: Storage and Volumes (10% of exam)
 - [Identify the correct graph drivers to uses with various operating systems](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
