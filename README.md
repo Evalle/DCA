@@ -89,7 +89,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 
 ### Domain 4: Networking (15% of exam)
 - [Describe the Container Network Model and how it interfaces with the Docker engine and network and IPAM drivers](https://docs.docker.com/network/)
-- [Describe the different types and use cases for the built-in network drivers](https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/)
+- [Describe the different types and use cases for the built-in network drivers](https://www.docker.com/blog/understanding-docker-networking-drivers-use-cases/)
 - [Describe the types of traffic that flow between the Docker engine, registry and UCP controllers](https://docs.mirantis.com/msr/2.9/ref-arch/networks.html)
 - [Describe and demonstrate how to create a Docker bridge network for developers to use for their containers](https://docs.docker.com/network/network-tutorial-standalone/)
 - [Describe and demonstrate how to publish a port so that an application is accessible externally](https://github.com/wsargent/docker-cheat-sheet#exposing-ports)
