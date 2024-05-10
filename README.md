@@ -1,8 +1,7 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 December 2022)
 
 ## Links Checker
-![Check Markdown links](https://github.com/Evalle/DCA/workflows/Check%20Markdown%20links/badge.svg?branch=master)
-
+[![Check Markdown links](https://github.com/Evalle/DCA/actions/workflows/action.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/action.yml)
 ## GitHub Stars Sparklines
 [![Sparkline](https://stars.medv.io/evalle/dca.svg)](https://stars.medv.io/evalle/dca)
 
