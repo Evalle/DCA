@@ -1,7 +1,13 @@
 name: Check Markdown links
 
-on: push
-
+on:
+  push:
+    branches:
+    - master
+  schedule:
+    # runs every monday at 9 am
+    - cron: "0 9 * * 1"
+    
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
