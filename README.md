@@ -1,4 +1,4 @@
-# Docker Certified Associate Exam Preparation Guide (v1.5 December 2022)
+# Docker Certified Associate Exam Preparation Guide (v1.5 January 2025)
 
 ## Links Checker
 [![Check Markdown links](https://github.com/Evalle/DCA/actions/workflows/action.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/action.yml)
