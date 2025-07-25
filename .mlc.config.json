@@ -1,0 +1,7 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "https://stackoverflow\\.com/questions/39695031/how-make-docker-layer-to-single-layer"
+    }
+  ]
+}
