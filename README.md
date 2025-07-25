@@ -63,13 +63,13 @@ Some of the products have been renamed, there are no changes regarding this in t
 - [Describe and demonstrate how to apply a file to create a Docker image](https://docs.docker.com/engine/reference/commandline/image_load/)
 - [Describe and demonstrate how to display layers of a Docker image](https://docs.docker.com/engine/reference/commandline/image_inspect/)
 - Describe and demonstrate how to modify an image to a single layer ([multi-stage build](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#minimize-the-number-of-layers), [single layer](https://stackoverflow.com/questions/39695031/how-make-docker-layer-to-single-layer))
-- [Describe and demonstrate registry functions](https://docs.docker.com/registry/)
-- [Deploy a registry](https://docs.docker.com/registry/deploying/)
+- [Describe and demonstrate registry functions](https://docs.docker.com/reference/cli/docker/image/)
+- [Deploy a registry](https://docs.docker.com/reference/cli/docker/image/push/)
 - [Log into a registry](https://docs.docker.com/engine/reference/commandline/login/)
 - [Utilize search in a registry](https://docs.docker.com/engine/reference/commandline/search/)
 - [Push an image to a registry](https://docs.docker.com/engine/reference/commandline/push/)
 - [Sign an image in a registry](https://docs.docker.com/engine/reference/commandline/trust_sign/)
-- [Pull](https://docs.docker.com/engine/reference/commandline/pull/) and [delete](https://docs.docker.com/registry/spec/api/#deleting-an-image) images from a registry
+- [Pull](https://docs.docker.com/engine/reference/commandline/pull/) and [delete](https://docs.docker.com/reference/cli/docker/image/rm/) images from a registry
 
 ### Domain 3: Installation and Configuration (15% of exam)
 - [Describe sizing requirements for installation](https://docs.docker.com/docker-for-windows/install/#system-requirements)
