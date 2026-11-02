@@ -39,7 +39,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 
 - [About the exam](https://training.mirantis.com/dca-certification-exam/)
 - [Official study guide (PDF)](https://a.storyblok.com/f/146871/x/2001ce939c/docker-study-guide_v1-5-jan-2025.pdf)
-- [Schedule your Docker Certified Associate Exam](https://prod.examity.com/docker)
+- [Schedule your Docker Certified Associate Exam](https://go.proctoru.com/)
 
 ## Preparation
 
