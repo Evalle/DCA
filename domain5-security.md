@@ -6,7 +6,7 @@
 - [Describe the process of signing an image](https://docs.docker.com/engine/security/trust/content_trust/#push-trusted-content)
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
-- [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
+- [Describe MTLS](https://web.archive.org/web/20201118085107/https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
 - [Identity roles](https://docs.mirantis.com/mke/3.6/ref-arch/rbac.html#rbac)
 - Describe the difference between UCP workers and managers:
   - [workers](https://docs.mirantis.com/mke/3.4/ref-arch/worker-nodes.html)
