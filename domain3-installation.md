@@ -11,7 +11,7 @@
 - [Describe and demonstrate how to use certificate-based client-server authentication to ensure a Docker daemon has the rights to access images on a registry](https://docs.docker.com/engine/security/certificates/)
 - [Describe the use of namespaces, cgroups, and certificate configuration](https://docs.docker.com/get-started/docker-overview/#the-underlying-technology)
 - [Describe and interpret errors to troubleshoot installation issues without assistance](https://docs.docker.com/engine/daemon/troubleshoot/)
-- Describe and demonstrate the steps to deploy the docker engine in [Docker, ](https://docs.docker.com/engine/install/ubuntu/) [DTR, ](https://docs.mirantis.com/msr/2.9/install/install-online/) [UCP,](https://docs.mirantis.com/mke/3.5/install/install-mke-image.html) [Docker on AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
+- Describe and demonstrate the steps to deploy the docker engine in [Docker](https://docs.docker.com/engine/install/ubuntu/), [DTR](https://docs.mirantis.com/msr/2.9/install/install-online/), [UCP](https://docs.mirantis.com/mke/3.5/install/install-mke-image.html), [Docker on AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html) and possibly [on premises HA config](https://docs.docker.com/engine/swarm/admin_guide/#add-manager-nodes-for-fault-tolerance)
 - Describe and demonstrate how to configure backups for UCP and DTR:
   - [UCP](https://docs.mirantis.com/mke/3.4/ops/disaster-recovery.html)
   - [DTR](https://docs.mirantis.com/msr/2.9/ops/disaster-recovery/)
