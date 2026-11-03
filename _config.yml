@@ -11,6 +11,7 @@ back_to_top_text: "Back to top"
 
 aux_links:
   "View on GitHub": "https://github.com/Evalle/DCA"
+  "Contribute": "https://github.com/Evalle/DCA/blob/master/CONTRIBUTING.md"
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
@@ -37,5 +38,3 @@ defaults:
     values: { title: "5. Security", nav_order: 6 }
   - scope: { path: "domain6-storage.md" }
     values: { title: "6. Storage and Volumes", nav_order: 7 }
-  - scope: { path: "CONTRIBUTING.md" }
-    values: { title: "Contributing", nav_order: 8 }
