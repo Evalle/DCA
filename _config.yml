@@ -1,1 +1,41 @@
-theme: jekyll-theme-slate
+title: DCA Study Guide
+description: Docker Certified Associate exam preparation guide, with links for every objective in the official study guide.
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+aux_links:
+  "View on GitHub": "https://github.com/Evalle/DCA"
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/Evalle/DCA"
+gh_edit_branch: "master"
+gh_edit_view_mode: "edit"
+
+footer_content: 'Content licensed under the <a href="https://github.com/Evalle/DCA/blob/master/LICENSE">Apache 2.0 license</a>. Not affiliated with Docker or Mirantis.'
+
+# Sidebar titles and order. Set here rather than in front matter so the
+# Markdown files stay clean when read on GitHub.
+defaults:
+  - scope: { path: "README.md" }
+    values: { title: "Home", nav_order: 1 }
+  - scope: { path: "domain1-orchestration.md" }
+    values: { title: "1. Orchestration", nav_order: 2 }
+  - scope: { path: "domain2-image-management.md" }
+    values: { title: "2. Image Creation, Management, and Registry", nav_order: 3 }
+  - scope: { path: "domain3-installation.md" }
+    values: { title: "3. Installation and Configuration", nav_order: 4 }
+  - scope: { path: "domain4-networking.md" }
+    values: { title: "4. Networking", nav_order: 5 }
+  - scope: { path: "domain5-security.md" }
+    values: { title: "5. Security", nav_order: 6 }
+  - scope: { path: "domain6-storage.md" }
+    values: { title: "6. Storage and Volumes", nav_order: 7 }
+  - scope: { path: "CONTRIBUTING.md" }
+    values: { title: "Contributing", nav_order: 8 }
