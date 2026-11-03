@@ -14,7 +14,7 @@
 - [Add networks, publish ports](https://docs.docker.com/engine/network/)
 - [Mount volumes](https://docs.docker.com/engine/storage/volumes/)
 - [Describe and demonstrate how to run replicated and global services](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
-- Apply node labels to demonstrate placement of tasks ([Label a Swarm Node ](https://docs.docker.com/reference/cli/docker/node/update/#label-add), [Use Placement Constraints](https://docs.docker.com/engine/swarm/services/#control-service-placement))
+- Apply node labels to demonstrate placement of tasks ([Label a Swarm Node](https://docs.docker.com/reference/cli/docker/node/update/#label-add), [Use Placement Constraints](https://docs.docker.com/engine/swarm/services/#control-service-placement))
 - [Describe and demonstrate how to use templates with "docker service create"](https://docs.docker.com/reference/cli/docker/service/create/#create-services-using-templates)
 - [Identify the steps needed to troubleshoot a service not deploying](https://docker-tutorial.schoolofdevops.com/docker-swarm-ucp-troubleshooting/)
 - [Describe how a Dockerized application communicates with legacy systems](https://docs.docker.com/engine/network/)

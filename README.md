@@ -1,9 +1,11 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 January 2025)
 
 ## Links Checker
+
 [![Check Markdown links](https://github.com/Evalle/DCA/actions/workflows/action.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/action.yml)
 
 ## Introduction
+
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://training.mirantis.com/dca-certification-exam/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
@@ -18,7 +20,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 ## Exam Domains
 
 | Domain | Weight | Study Guide |
-|--------|--------|-------------|
+| ------ | ------ | ----------- |
 | Domain 1: Orchestration | 25% | [Study →](domain1-orchestration.md) |
 | Domain 2: Image Creation, Management, and Registry | 20% | [Study →](domain2-image-management.md) |
 | Domain 3: Installation and Configuration | 15% | [Study →](domain3-installation.md) |
