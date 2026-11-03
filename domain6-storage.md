@@ -4,7 +4,7 @@
 
 - [Identify the correct graph drivers to uses with various operating systems](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
 - [Describe and demonstrate how to configure devicemapper](https://docs.docker.com/storage/storagedriver/device-mapper-driver/#configure-docker-with-the-devicemapper-storage-driver)
-- [Compare and contrast object and block storage and when they should be used](https://rancher.com/block-object-file-storage-containers/)
+- [Compare and contrast object and block storage and when they should be used](https://web.archive.org/web/20210728004527/https://rancher.com/block-object-file-storage-containers/)
 - [Describe how an application is composed of layers and where these layers reside on the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers)
 - [Describe how volumes are used with Docker for persistent storage](https://docs.docker.com/storage/volumes/)
 - Identify the steps you would take to clean up unused images on a filesystem, also on DTR.
