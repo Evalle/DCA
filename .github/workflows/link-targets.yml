@@ -26,9 +26,9 @@ jobs:
     - name: Check link targets
       run: |
         status=0
-        python3 .github/scripts/check_link_targets.py > report.md || status=$?
-        cat report.md
-        cat report.md >> "$GITHUB_STEP_SUMMARY"
+        python3 .github/scripts/check_link_targets.py > "$RUNNER_TEMP/report.md" || status=$?
+        cat "$RUNNER_TEMP/report.md"
+        cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
         exit "$status"
 
     # Scheduled and manual runs only: open an issue, or comment on the open one.
@@ -39,7 +39,7 @@ jobs:
         RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
       run: |
         title="Weekly check found moved or removed link targets"
-        { echo "Run: $RUN_URL"; echo; cat report.md; } > issue-body.md
+        { echo "Run: $RUN_URL"; echo; cat "$RUNNER_TEMP/report.md"; } > issue-body.md
         existing=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
         if [ -n "$existing" ]; then
           gh issue comment "$existing" --body-file issue-body.md

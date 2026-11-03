@@ -16,7 +16,7 @@
     - [from cli](https://docs.mirantis.com/mke/3.6/ops/administer-cluster/use-your-own-tls-certificates.html)
     - [from GUI](https://docs.mirantis.com/docker-enterprise/v3.0/dockeree-products/ucp/admin/configure/use-your-own-tls-certificates.html)
     - [print the public certificates](https://docs.mirantis.com/mke/3.3/cli-ref/mke-cli-dump-certs.html)
-  - [**DTR** is now Mirantis Secure Registry or **MSR**](https://docs.mirantis.com/msr/2.9/ops/msr-configure/use-your-own-tls-certificates.html)
+  - [**DTR** is now Mirantis Secure Registry or **MSR**](https://docs.mirantis.com/msr/2.9/ops/msr-configure/add-a-custom-tls-certificate/)
 - [Describe and demonstrate that an image passes a security scan](https://docs.mirantis.com/msr/2.9/ops/manage-images/scan-images-for-vulnerabilities.html)
 - [Describe and demonstrate how to enable Docker Content Trust.](https://docs.docker.com/engine/security/trust/)
 - [Describe and demonstrate how to configure RBAC with UCP](https://docs.mirantis.com/containers/v3.0/dockeree-products/mke/admin/configure/configure-kube-rbac.html)
