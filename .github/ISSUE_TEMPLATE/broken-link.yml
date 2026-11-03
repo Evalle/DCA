@@ -1,0 +1,49 @@
+name: Broken or outdated link
+description: A link is dead, redirects somewhere unhelpful, or points to outdated content.
+title: "Broken link: "
+labels: ["broken-link"]
+body:
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Where is the link?
+      options:
+        - README
+        - "Domain 1: Orchestration"
+        - "Domain 2: Image Creation, Management, and Registry"
+        - "Domain 3: Installation and Configuration"
+        - "Domain 4: Networking"
+        - "Domain 5: Security"
+        - "Domain 6: Storage and Volumes"
+        - CONTRIBUTING
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: The URL as it appears in the guide.
+      placeholder: https://docs.docker.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong with it?
+      options:
+        - Page not found or the site is gone
+        - Redirects to a homepage or unrelated page
+        - Content is outdated
+        - Doesn't cover the objective it's linked from
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (optional)
+      description: A current page that covers the same objective, if you know one.
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else? (optional)

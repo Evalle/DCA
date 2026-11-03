@@ -51,7 +51,7 @@ npx markdownlint-cli2@0.24.0 --fix "**/*.md"
 
 ## Reporting a problem
 
-Found a broken link, an outdated resource or a missing objective, but don't have time to fix it? [Open an issue](https://github.com/Evalle/DCA/issues/new) with the file and the link in question.
+Found a broken link, an outdated resource or a missing objective, but don't have time to fix it? [Open an issue](https://github.com/Evalle/DCA/issues/new/choose) and pick **Broken or outdated link** or **Suggest a resource**. The form asks for the details we need.
 
 ## Legal notice
 

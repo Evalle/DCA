@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Exam registration, pricing or results
+    url: https://training.mirantis.com/certification/dca-certification-exam/
+    about: Questions about the exam itself go to Mirantis Training, who run the DCA exam.

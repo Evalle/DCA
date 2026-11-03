@@ -1,0 +1,44 @@
+name: Suggest a resource
+description: Propose a better or additional link for an exam objective.
+title: "Resource: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The guide prefers official documentation (Docker, Mirantis, Kubernetes). Blog posts and tutorials are welcome when they cover an objective better than the docs do.
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain
+      options:
+        - "Domain 1: Orchestration"
+        - "Domain 2: Image Creation, Management, and Registry"
+        - "Domain 3: Installation and Configuration"
+        - "Domain 4: Networking"
+        - "Domain 5: Security"
+        - "Domain 6: Storage and Volumes"
+        - General (README)
+    validations:
+      required: true
+  - type: input
+    id: objective
+    attributes:
+      label: Objective
+      description: The objective this resource covers, as written in the guide.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+      description: What does it cover that the current link doesn't?
+    validations:
+      required: true
