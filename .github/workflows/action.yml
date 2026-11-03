@@ -8,12 +8,42 @@ on:
   schedule:
     # runs every monday at 9 am
     - cron: "0 9 * * 1"
-    
+  workflow_dispatch:
+
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
     steps:
     - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
     - uses: tcort/github-action-markdown-link-check@e7c7a18363c842693fadde5d41a3bd3573a7a225 # v1.1.2
       with:
         config-file: ".mlc.config.json"
+
+    # A failing scheduled run only sends an email, which is easy to miss.
+    # Open an issue instead, or comment on the open one if it already exists.
+    - name: Report dead links in an issue
+      if: failure() && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+      env:
+        GH_TOKEN: ${{ github.token }}
+        RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      run: |
+        title="Weekly link check found dead links"
+        {
+          echo "The link check failed on $(date -u +%Y-%m-%d). Run: $RUN_URL"
+          echo
+          echo '```'
+          # MLC_OUTPUT is set by the link-check action when it finds dead links.
+          # Keep each file name and its dead links; drop colours and passing files.
+          printf '%s\n' "$MLC_OUTPUT" | sed 's/\x1b\[[0-9;]*m//g' \
+            | grep -E 'FILE:|→ Status' | grep -B1 '→' | grep -v '^--$' || true
+          echo '```'
+        } > issue-body.md
+        existing=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+        if [ -n "$existing" ]; then
+          gh issue comment "$existing" --body-file issue-body.md
+        else
+          gh issue create --title "$title" --body-file issue-body.md
+        fi
