@@ -6,6 +6,9 @@ markdown-link-check only looks at the final HTTP status, so it misses:
   * links that redirect to a different page (the page moved),
   * #anchors that no longer exist on the target page.
 
+It also fails on 404/410 responses. markdown-link-check skips docs.mirantis.com
+(it blocks bots with 403s), so this script is what catches dead Mirantis links.
+
 Usage: check_link_targets.py [FILE.md ...]   (defaults to every *.md in the repo root)
 Writes a Markdown report to stdout and exits 1 if anything needs fixing.
 """
@@ -75,8 +78,10 @@ def fetch(url):
 def check(url):
     base, _, fragment = url.partition("#")
     status, final, body = fetch(base)
+    if status in (404, 410):
+        return "dead", f"HTTP {status}"
     if status != 200:
-        # Dead links are markdown-link-check's job; just note we couldn't verify.
+        # Blocked, rate-limited or temporarily down: note it, don't fail.
         return "unchecked", f"HTTP {status}"
     if any(marker in body for marker in CHALLENGE_MARKERS):
         return "unchecked", "bot challenge page"
@@ -104,6 +109,7 @@ def main(paths):
         results = dict(zip(links, pool.map(check, links)))
 
     sections = {
+        "dead": ("Page not found", "returns"),
         "removed": ("Redirects to a landing page (page probably removed)", "lands on"),
         "moved": ("Redirects to a different page (update to the new URL)", "now at"),
         "anchor": ("Section anchor missing on the target page", "missing"),
@@ -118,7 +124,12 @@ def main(paths):
         print(f"### {heading}\n")
         for url, info in rows:
             where = ", ".join(sorted(links[url]))
-            detail = f"`#{info}`" if kind == "anchor" else f"<{info}>"
+            if kind == "anchor":
+                detail = f"`#{info}`"
+            elif kind == "dead":
+                detail = info
+            else:
+                detail = f"<{info}>"
             print(f"- `{where}`: <{url}> ({label} {detail})")
         print()
 
@@ -130,7 +141,7 @@ def main(paths):
         print("\n</details>")
 
     if not problems:
-        print("No moved, removed or broken-anchor links found.")
+        print("No dead, moved, removed or broken-anchor links found.")
     return 1 if problems else 0
 
 

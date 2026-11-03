@@ -2,27 +2,15 @@
   "retryOn429": true,
   "retryCount": 3,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [
-    200,
-    206,
-    403
-  ],
-  "httpHeaders": [
-    {
-      "urls": [
-        "https://docs.mirantis.com"
-      ],
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
-      }
-    }
-  ],
   "ignorePatterns": [
     {
       "pattern": "https://stackoverflow\\.com/questions/39695031/how-make-docker-layer-to-single-layer"
     },
     {
       "pattern": "^https://web\\.archive\\.org/"
+    },
+    {
+      "pattern": "^https://(docs|training)\\.mirantis\\.com/"
     }
   ]
 }
