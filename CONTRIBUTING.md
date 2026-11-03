@@ -18,7 +18,7 @@ The site at [evalle.github.io/DCA](https://evalle.github.io/DCA/) is built from 
 ## Adding or changing a link
 
 1. Find the objective in the right domain file. Keep the objective text as it appears in the official study guide.
-2. Prefer official documentation: [Docker docs](https://docs.docker.com/), [Mirantis docs](https://docs.mirantis.com/) for UCP/MKE and DTR/MSR, and [Kubernetes docs](https://kubernetes.io/docs/) for the Kubernetes objectives. Use a blog post or tutorial only when the official docs don't cover the topic well.
+2. Prefer official documentation: [Docker docs](https://docs.docker.com/), [Mirantis docs](https://docs.mirantis.com/) for UCP/MKE and DTR/MSR, and [Kubernetes docs](https://kubernetes.io/docs/home/) for the Kubernetes objectives. Use a blog post or tutorial only when the official docs don't cover the topic well.
 3. Use the page's current URL, not one that redirects. If you link to a section, check that the `#anchor` exists on the page.
 4. If the original article is gone, link to a [Wayback Machine](https://web.archive.org/) snapshot rather than removing the objective.
 5. An objective can have more than one link when it covers several things, for example:
