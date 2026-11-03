@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://training.mirantis.com/dca-certification-exam/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
+This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://training.mirantis.com/certification/dca-certification-exam/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
 Web version can be found here: [DCA website](https://evalle.github.io/DCA/)
 
@@ -39,7 +39,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 
 ## Useful Links
 
-- [About the exam](https://training.mirantis.com/dca-certification-exam/)
+- [About the exam](https://training.mirantis.com/certification/dca-certification-exam/)
 - [Official study guide (PDF)](https://a.storyblok.com/f/146871/x/2001ce939c/docker-study-guide_v1-5-jan-2025.pdf)
 - [Schedule your Docker Certified Associate Exam](https://go.proctoru.com/)
 
