@@ -37,6 +37,12 @@ To run the same check locally:
 npx markdown-link-check@3.14.2 -c .mlc.config.json domain1-orchestration.md
 ```
 
+Pull requests are also checked by the [Lint Markdown](.github/workflows/markdown-lint.yml) workflow, which catches formatting problems such as broken lists or spaces inside link text. Rules are set in [`.markdownlint-cli2.jsonc`](.markdownlint-cli2.jsonc). To run it locally, and fix most issues automatically:
+
+```sh
+npx markdownlint-cli2@0.24.0 --fix "**/*.md"
+```
+
 ## Submitting a change
 
 1. Fork the repository and create a branch.
@@ -45,7 +51,7 @@ npx markdown-link-check@3.14.2 -c .mlc.config.json domain1-orchestration.md
 
 ## Reporting a problem
 
-Found a broken link, an outdated resource or a missing objective, but don't have time to fix it? [Open an issue](https://github.com/Evalle/DCA/issues/new) with the file and the link in question.
+Found a broken link, an outdated resource or a missing objective, but don't have time to fix it? [Open an issue](https://github.com/Evalle/DCA/issues/new/choose) and pick **Broken or outdated link** or **Suggest a resource**. The form asks for the details we need.
 
 ## Legal notice
 

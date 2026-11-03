@@ -1,0 +1,8 @@
+{
+  "config": {
+    // Each objective is one bullet with long link URLs, so line length
+    // limits would only force awkward wrapping.
+    "MD013": false
+  },
+  "ignores": ["node_modules/**"]
+}
