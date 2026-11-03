@@ -1,8 +1,11 @@
 title: DCA Study Guide
 description: Docker Certified Associate exam preparation guide, with links for every objective in the official study guide.
+url: "https://evalle.github.io"
+baseurl: "/DCA"
 remote_theme: just-the-docs/just-the-docs@v0.12.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 search_enabled: true
 heading_anchors: true
