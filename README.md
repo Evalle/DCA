@@ -1,8 +1,11 @@
 # Docker Certified Associate Exam Preparation Guide (v1.5 January 2025)
 
-## Links Checker
-
 [![Check Markdown links](https://github.com/Evalle/DCA/actions/workflows/action.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/action.yml)
+[![Check link targets](https://github.com/Evalle/DCA/actions/workflows/link-targets.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/link-targets.yml)
+[![Lint Markdown](https://github.com/Evalle/DCA/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/markdown-lint.yml)
+[![Website](https://github.com/Evalle/DCA/actions/workflows/pages/pages-build-deployment/badge.svg)](https://evalle.github.io/DCA/)
+
+Covers the official DCA study guide v1.5 (January 2025). Links last reviewed: November 2026. Every link is also checked automatically each week.
 
 ## Introduction
 
@@ -45,7 +48,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 
 ## Preparation
 
-- [250 Practice Questions](https://github.com/bbachi/DCA-Practice-Questions/tree/master)
+- [250 Practice Questions](https://github.com/bbachi/DCA-Practice-Questions/tree/master) (community-maintained, last updated in 2023, so it predates the Kubernetes objectives added in study guide v1.5)
 
 ## Contributors
 
